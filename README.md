@@ -1,2 +1,2 @@
-# AltKernel
-Alt Kernel Open Source Code For Onclite/Redmi7
+# Fsociety Kernel
+Fsociety Kernel Open Source Code For Onclite/Redmi7
