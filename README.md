@@ -1,4 +1,7 @@
-# Fsociety Kernel
+# Fsociety Kernel By Awayer
+Note: Fsociety kernel based on NeonX Kernel.
+
+
      Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
